@@ -16,5 +16,5 @@ def 判断水仙花数(num):
             else:
                 print("不是水仙花数")
 
-num = input()
+num = input(“请输入一个数”)
 判断水仙花数(num)
